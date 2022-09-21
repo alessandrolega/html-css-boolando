@@ -257,5 +257,18 @@ div > h3{
     background-size: cover;
 }
 
+.category{
+    font-weight: bold;
+}
+
+.price-red{
+    color: red;
+    font-weight: bold;
+}
+
+.old-price{
+    text-decoration: line-through;
+}
+
 
 
