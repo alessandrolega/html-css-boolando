@@ -134,3 +134,8 @@ i{
     top: 15px;
 }
 
+.heart-container:hover{
+    color: red;
+    cursor: pointer;
+}
+
