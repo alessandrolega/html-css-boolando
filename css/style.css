@@ -56,3 +56,34 @@ i{
     color: white;
     margin: 0 3px;
 }
+
+.img-container1{
+    width: 500px;
+    height: 700px;
+    background-image: url('../img/1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
+.img-container2{
+    width: 500px;
+    height: 700px;
+    background-image: url('../img/2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
+.img-container3{
+    width: 500px;
+    height: 700px;
+    background-image: url('../img/3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
