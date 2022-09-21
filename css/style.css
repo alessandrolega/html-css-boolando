@@ -87,3 +87,33 @@ i{
     margin-top: 50px;
 }
 
+.img-container4{
+    width: 500px;
+    height: 700px;
+    background-image: url('../img/4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
+.img-container5{
+    width: 500px;
+    height: 700px;
+    background-image: url('../img/5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
+.img-container6{
+    width: 500px;
+    height: 700px;
+    background-image: url('../img/6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
