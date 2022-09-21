@@ -220,3 +220,42 @@ div > h3{
     padding-top: 40px;
     padding-bottom: 20px;
 }
+
+.img-container1:hover{
+    background-image: url('../img/1b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-container2:hover{
+    background-image: url('../img/2b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-container3:hover{
+    background-image: url('../img/3b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-container4:hover{
+    background-image: url('../img/4b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-container5:hover{
+    background-image: url('../img/5b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-container6:hover{
+    background-image: url('../img/6b.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
